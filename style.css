@@ -28,7 +28,7 @@ h1 {
     color: #000000;
   background: rgba(255, 255, 255, 0.7);
   font-size: 15px;
-  padding: 10px 0;
+  padding: 2px 0;
   margin: 0;
   width: 100%;
   position: fixed;
@@ -64,18 +64,20 @@ figure {
 img, figure {
   width: 25%;
   padding: 3%;
+    flex: 0 1 calc(15%);
 }
 
 img {
   width: 100%;
   transition: all .3s ease-out;
   transform: scale(1.2);
+
 }
 
 img:hover  {
   opacity: 0.9;
   cursor: pointer;
-  transform: scale(1);
+  transform: scale(1.15);
 }
 
 /************************************
@@ -88,7 +90,7 @@ display: flex;
 background: #ffffff;
 justify-content: flex-end;
 margin: 0;
-height: 40px;
+height: 10px;
 bottom: 0;
 left: 0;
 width: 100%;
