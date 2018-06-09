@@ -1,8 +1,6 @@
 body {
-    background-image: linear-gradient(to top, #ecedee 0%, #eceeef 75%, #e7e8e9 100%);
     min-height: 100vh;
     font: normal 16px sans-serif;
-    padding: px ;
 }
 
 .container.gallery-container {
@@ -35,7 +33,7 @@ body {
     width: 100%;
     margin-bottom: 30px;
     transition: 0.2s ease-in-out;
-    box-shadow: 0 2px 3px rgba(0,0,0,0.2);
+    box-shadow: 0 0px 0px rgba(0,0,0,0.2);
 }
 
 .tz-gallery .lightbox img:hover {
@@ -44,7 +42,7 @@ body {
 }
 
 .tz-gallery img {
-    border-radius: 4px;
+    border-radius: 0px;
 }
 
 .baguetteBox-button {
