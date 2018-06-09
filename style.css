@@ -1,3 +1,30 @@
+.logo {
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
+.Goneja {
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
+.menu {
+    color: #000000;
+    text-decoration: none !important;
+}
+
+.menuu {
+    margin-top: 200px;
+}
+
+a {
+    color: #000000 !important;
+}
+
+a:hover {
+    color: 000000 !important;
+}
+
 #test {
     padding: 2em 0;
     display: block;
