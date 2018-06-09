@@ -7,7 +7,7 @@ body {
     background-color: #fff;
     color: #35373a;
     min-height: 100vh;
-    box-shadow: rgba(0, 0, 0, 0.06);
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.06);
 }
 
 .gallery-container h1 {
@@ -37,8 +37,8 @@ body {
 }
 
 .tz-gallery .lightbox img:hover {
-    transform: scale(1.02);
-    box-shadow: 0 4px 7px rgba(0,0,0,0.3);
+    transform: scale(1.05);
+    box-shadow: 0 8px 15px rgba(0,0,0,0.3);
 }
 
 .tz-gallery img {
