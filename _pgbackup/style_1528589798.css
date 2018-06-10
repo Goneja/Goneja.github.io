@@ -1,17 +1,6 @@
-@font-face {
-    font-family: 'MinionProSemibold';
-    src: url('./Fonts/MinionProSemibold/MinionProSemibold.ttf');
-}
-
-@font-face {
-    font-family: 'MinionProRegular';
-    src: url('./Fonts/MinionProRegular/MinionProRegular.tff');
-}
-
 .book {
-    font-family: 'MinionProRegular';
-    font-size: 15px;
-    margin-top: 50px;
+    font-family: Minion pro;
+    font-size: 12;
 }
 
 .logo {
@@ -19,26 +8,13 @@
 }
 
 .Goneja {
-    padding-top: 30px;
+    padding-top: 10px;
     margin-bottom: 10px;
 }
 
-.name {
-    font-family: 'MinionProSemibold';
-    font-size: 17px;
-    margin-bottom: 50px;
-}
-
 .menu {
-    color: #ffffff;
+    color: #000000 ;
     text-decoration: none !important;
-    font-family: 'MinionProRegular';
-    font-size: 25px;
-}
-
-.links {
-    color: rgba(50, 83, 239, 0.80) !important;
-    text-decoration: underline !important;
 }
 
 .info {
@@ -46,12 +22,7 @@
 }
 
 .menuu {
-    margin-top: 200px;
-}
-
-.choices {
-    margin-top: 5px;
-    margin-bottom: 5px;
+    margin-top: 100px;
 }
 
 .bouton {

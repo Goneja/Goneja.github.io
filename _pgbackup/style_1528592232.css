@@ -11,7 +11,7 @@
 .book {
     font-family: 'MinionProRegular';
     font-size: 15px;
-    margin-top: 50px;
+    margin-top: 20px;
 }
 
 .logo {
@@ -30,15 +30,10 @@
 }
 
 .menu {
-    color: #ffffff;
+    color: #000000 ;
     text-decoration: none !important;
     font-family: 'MinionProRegular';
     font-size: 25px;
-}
-
-.links {
-    color: rgba(50, 83, 239, 0.80) !important;
-    text-decoration: underline !important;
 }
 
 .info {
