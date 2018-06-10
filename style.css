@@ -14,18 +14,19 @@
     margin-top: 50px;
 }
 
-.head {
-    Margin-top: 2%;
+.logo {
+    padding-top: 30px;
 }
 
 .Goneja {
-    padding-top: 2%;
+    padding-top: 30px;
+    margin-bottom: 10px;
 }
 
 .name {
     font-family: 'MinionProSemibold';
     font-size: 17px;
-    margin-bottom: 2%,;
+    margin-bottom: 50px;
 }
 
 .menu {
@@ -71,7 +72,7 @@ a {
 }
 
 a:hover {
-    color: #000000 !important;
+    color: 000000 !important;
 }
 
 #test {
