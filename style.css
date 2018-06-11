@@ -8,6 +8,11 @@
     src: url('./Fonts/MinionProRegular/MinionProRegular.tff');
 }
 
+@font-face {
+    font-family: 'MinionProItalic';
+    src: url('./Fonts/MinionProItalic/MinionProItalic.ttf');
+}
+
 .book {
     font-family: 'MinionProRegular' !Important;
     font-size: 15px;
@@ -38,7 +43,7 @@
 }
 
 .booktitle {
-    font-familiy: 'MinionProSemiBold';
+    font-family: 'MinionProSemiBold';
     font-size: 15px;
     
 }
@@ -47,6 +52,10 @@
     color: rgba(50, 83, 239, 0.80) !important;
     text-decoration: underline !important;
     font-weight: 600;
+}
+
+.people{
+    font-family: 'MinionProItalic' !important;
 }
 
 .info {
