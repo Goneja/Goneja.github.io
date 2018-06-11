@@ -24,6 +24,10 @@
     font-size: 15px;
 }
 
+gallery >i { 
+    font-style: normal !important; 
+}
+
 .logo {
     padding-top: 30px;
 }
@@ -57,11 +61,14 @@
     color: rgba(50, 83, 239, 0.80) !important;
     text-decoration: underline !important;
     font-weight: 600;
+    font-family: 'MinionProRegular';
 }
 
 .people{
     font-family: 'MinionProItalic' !important;
 }
+
+.
 
 .info {
     margin-top: 70px;
