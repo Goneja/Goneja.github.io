@@ -8,9 +8,12 @@
         <meta name="author" content="">
         <title>Gøneja — Book</title>
         <!-- Bootstrap core CSS -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
         <link href="bootstrap/css/bootstrap.css" rel="stylesheet">
         <!-- Custom styles for this template -->
+        <link rel="stylesheet" href="gallery-grid.css">
         <link href="style.css" rel="stylesheet">
+        <link href="./dist/baguetteBox.min.css" rel="stylesheet" type="text/css">
     </head>
     <body>
         <div class="container">
@@ -36,6 +39,48 @@
                 </form>
             </div>
         </div>
+             <div class="container gallery-container">
+                  <div class="tz-gallery">
+                <div class="row">
+                    <div class="gallery">
+                        <div class="col-xs-6 col-md-3">
+                            <a class="lightbox" href="./Book/TogetherWeDance_test_1.jpg" data-caption="<p>Dawning</p>
+<p>With Anastasiia Kovba</p>
+<p>Berlin, 2018</p>">
+                                <img src="./Book/TogetherWeDance_test_1.jpg" alt="Park">
+                            </a>
+                        </div>
+                        <div class="col-xs-6 col-md-3">
+                            <a class="lightbox" href="./Book/TogetherWeDance_test_2.jpg" data-caption="<p>Dawning</p>
+<p>With Anastasiia Kovba</p>
+<p>Berlin, 2018</p>">
+                                <img src="./Book/TogetherWeDance_test_2.jpg" alt="Park">
+                            </a>
+                        </div>
+                        <div class="col-xs-6 col-md-3">
+                            <a class="lightbox" href="./Book/TogetherWeDance_test_3.jpg" data-caption="<p>Dawning</p>
+<p>With Anastasiia Kovba</p>
+<p>Berlin, 2018</p>">
+                                <img src="./Book/TogetherWeDance_test_3.jpg" alt="Park">
+                            </a>
+                        </div>
+                        <div class="col-xs-6 col-md-3">
+                            <a class="lightbox" href="./Book/TogetherWeDance_test_4.jpg" data-caption="<p>Dawning</p>
+<p>With Anastasiia Kovba</p>
+<p>Berlin, 2018</p>">
+                                <img src="./Book/TogetherWeDance_test_4.jpg" alt="Park">
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+        <script src="./dist/baguetteBox.min.js"></script>
+        <script>
+    baguetteBox.run('.tz-gallery');
+</script>
+        <script src="js/index.js"></script>
         <!-- Bootstrap core JavaScript
     ================================================== -->
         <!-- Placed at the end of the document so the pages load faster -->
