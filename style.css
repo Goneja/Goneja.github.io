@@ -69,14 +69,13 @@ gallery >i {
     font-family: 'MinionProItalic' !important;
 }
 
-.
 
 .info {
     margin-top: 70px;
 }
 
 .menuu {
-    margin-top: 150px;
+    margin-top: 125px;
 }
 
 .choices {
@@ -107,6 +106,7 @@ a:hover {
     padding: 2em 0;
     display: block;
     visibility: hidden;
+    margin-top: 20px;
 }
 
 .centered {
