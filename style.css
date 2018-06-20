@@ -49,7 +49,7 @@ gallery >i {
     font-family: 'MinionProRegular' !important;
     font-size: 19px;
     font-weight: 100;
-    margin-top: 35px;
+    margin-top: 15px;
 }
 
 .booktitle {
@@ -75,7 +75,7 @@ gallery >i {
 }
 
 .menuu {
-    margin-top: 100px;
+    margin-top: 70px;
 }
 
 .choices {
@@ -116,6 +116,9 @@ a:hover {
     width: 10%;
 }
 
+.bookgallery {
+    padding: 10px 200px 50px 100px;
+}
 .slideDown {
     animation-name: slideDown;
     -webkit-animation-name: slideDown;
