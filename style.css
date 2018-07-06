@@ -50,6 +50,7 @@ gallery >i {
     font-size: 19px;
     font-weight: 100;
     margin-top: 15px;
+    padding-bottom: 2px;
 }
 
 .booktitle {
