@@ -117,6 +117,28 @@ a:hover {
     width: 10%;
 }
 
+.booksprints{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 70px;
+    
+}
+
+.booksprints img{
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.booksprints figcaption{
+     margin-top: 10px;
+    text-align: center;
+    font-family: 'MinionProRegular' !Important;
+    font-size: 15px;
+    
+}
+
 .bookgallery {
     padding: 10px 50px 50px 50px;
 }
