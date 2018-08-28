@@ -129,6 +129,8 @@ a:hover {
 .booksprints img{
     margin-right: 10px;
     margin-left: 10px;
+    width: 500px;
+    height: 350px;
 }
 
 .booksprints figcaption{
