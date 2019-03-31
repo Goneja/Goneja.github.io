@@ -56,7 +56,7 @@ gallery >i {
 .booktitle {
     font-family: 'MinionProSemiBold';
     font-size: 15px;
-    
+    padding: 0.5rem;
 }
 
 .links {
