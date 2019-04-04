@@ -43,6 +43,10 @@ gallery >i {
     margin-bottom: 50px;
 }
 
+.ff {
+    height:8Opx; !important
+}
+
 .menu {
     color: #000000;
     text-decoration: none !important;
